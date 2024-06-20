@@ -58,7 +58,8 @@ nav {
     transition: background-color 0.3s ease;
 }
 nav.scrolled {
-    background-color: #9D3695;
+    background: #9D3695;
+	font-weight: bold;
 	font-size: 20px;
 	padding: 10px 25px;
 	border-radius: 50px;
@@ -85,6 +86,8 @@ nav ul li a {
 .nav-bar ul li a:hover {
 	color: #11101b;
 	background: #fefefe;
+	font-family: Courier, monospace;
+	font-weight: bold;
 	display:inline-block;
 }
 .nav-bar ul li a.active {
