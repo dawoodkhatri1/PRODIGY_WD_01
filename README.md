@@ -1,6 +1,12 @@
 # PRODIGY_WD_01
 To run the file, you have to install notepad++ or you can run in visual studio.
 
+The ### info.js 
+file is for hovering over.
+
+The ### info2.js
+file is for scrolling over.
+
 The output of the files looks like this:
 
 ![Capture](https://github.com/dawoodkhatri1/PRODIGY_WD_01/assets/136968266/621c8e00-64b9-4617-85eb-d806c486c2a5)
