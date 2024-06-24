@@ -1,9 +1,9 @@
 # PRODIGY_WD_01
 To run the file, you have to install notepad++ or you can run in visual studio.
 
-The **_info.js_** file is for hovering over.
+- The **_info.js_** file is for hovering over.
 
-The **_info2.js_** file is for scrolling over.
+* The **_info2.js_** file is for scrolling over.
 
 The output of the files looks like this:
 
