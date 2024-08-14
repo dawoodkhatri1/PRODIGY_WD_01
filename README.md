@@ -1,4 +1,5 @@
 # PRODIGY_WD_01
+
 To run the file, you have to install notepad++ or you can run in visual studio.
 
 - The **_info.js_** file is for hovering over.
@@ -16,3 +17,7 @@ After scrolling, the output is:
 If you want to check the files, you can go to my web app:
 
 > https://dawoodkhatri1.github.io/PRODIGY_WD_01/
+
+## License
+
+[MIT License](LICENSE)
